@@ -37,7 +37,7 @@ custom_css = home_page.custom_css
 
 
 # Create the introduction section
-st.title("Welcome to Hemant's AutoEDA")
+st.title("Welcome to Pranit's AutoEDA")
 # st.write('<div class="tagline">Unleash the Power of Data with AutoEDA!</div>', unsafe_allow_html=True)
 
 
